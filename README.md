@@ -13,3 +13,10 @@ $ sudo cp -r "the copied file" /usr/share/icons
 </h4>
 
 on doing this the files is directed to /usr/share/icons and you will be able to change the icons from the settings
+<br><br>
+<h4>The icons are still under devlopment, for any inquires please contact; penwinthepirate@gmail.com</h4>
+
+<h5>please show love and support on:</h5>
+<br>
+instagram : @Im._Najwan
+Discord : PENWINthePIRATE
