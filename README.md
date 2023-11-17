@@ -1,7 +1,7 @@
 # Too-vibrant-icons-beta
 still in devlopment
 
-![Alt Text](imgs/img.png)
+![Alt Text](imgs/icons.png)
 
 
 <h1>how to download?</h1>
