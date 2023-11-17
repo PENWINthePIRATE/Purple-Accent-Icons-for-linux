@@ -5,13 +5,13 @@ still in devlopment
 <br><br>
 <h2>Install script</h2><br>
 <h4>
-  1.Press the code button and copy<br>
-  2.Open terminal and type<br><br>
-  $ cd ~/Downloads<br>
-  $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br>
-  $ cd Too-vibrant-icons-beta<br>
-  $ chmod +x ./install.sh<br>
-  $ ./install.sh<br>
+  1.Press the code button and copy<br><br>
+  2.Open terminal and type<br><br><br><br>
+  $ cd ~/Downloads<br><br>
+  $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br><br>
+  $ cd Too-vibrant-icons-beta<br><br>
+  $ chmod +x ./install.sh<br><br>
+  $ ./install.sh<br><br>
 </h4>
 <h2>Manual method</h2>
 <h4>1.Click the green code button and download the zip<br><br>
