@@ -8,7 +8,7 @@ still in devlopment
 <h2>Install script</h2><br>
 <h4>
   1.Press the code button and copy<br><br>
-  2.Open terminal and type<br><br><br><br>
+  2.Open terminal and type the following<br><br><br>
   $ cd ~/Downloads<br><br>
   $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br><br>
   $ cd Too-vibrant-icons-beta<br><br>
