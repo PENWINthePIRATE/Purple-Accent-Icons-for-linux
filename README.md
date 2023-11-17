@@ -2,7 +2,9 @@
 still in devlopment
 
 <h1>how to download?</h1>
-
+<br><br>
+<h2>Install script</h2><br>
+<h2>Manual method</h2>
 <h4>1.Click the green code button and download the zip<br><br>
 2.Go to the zip directory and extract it<br><br>
 3.Copy the folder directory path<br><br>
