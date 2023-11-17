@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Highly Contrasted
-Comment=Icons contrasted and minimalised
+Name=Too Vibrant Icons
+Comment=Icons minimalised and dippied in color
 Inherits=Mkos-Big-Sur,breeze,gnome,hicolor
 
 Example=x-directory-normal
