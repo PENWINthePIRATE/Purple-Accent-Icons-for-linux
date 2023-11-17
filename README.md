@@ -4,6 +4,15 @@ still in devlopment
 <h1>how to download?</h1>
 <br><br>
 <h2>Install script</h2><br>
+<h4>
+  1.Press the code button and copy<br>
+  2.Open terminal and type<br><br>
+  $ cd ~/Downloads<br>
+  $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br>
+  $ cd Too-vibrant-icons-beta<br>
+  $ chmod +x ./install.sh<br>
+  $ ./install.sh<br>
+</h4>
 <h2>Manual method</h2>
 <h4>1.Click the green code button and download the zip<br><br>
 2.Go to the zip directory and extract it<br><br>
