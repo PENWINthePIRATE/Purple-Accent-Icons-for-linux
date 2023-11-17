@@ -18,5 +18,5 @@ on doing this the files is directed to /usr/share/icons and you will be able to 
 
 <h5>please show love and support on:</h5>
 <br>
-instagram : @Im._Najwan
+instagram : @Im._Najwan<br>
 Discord : PENWINthePIRATE
