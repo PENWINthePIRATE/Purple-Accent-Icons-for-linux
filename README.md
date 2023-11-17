@@ -5,7 +5,7 @@ still in devlopment
 
 
 <h1>how to download?</h1>
-<h2>Install script</h2><br>
+<h2>Install script</h2>
 <h4>
   1.Press the code button and copy<br><br>
   2.Open terminal and type the following<br><br><br>
@@ -19,7 +19,7 @@ still in devlopment
 <h4>1.Click the green code button and download the zip<br><br>
 2.Go to the zip directory and extract it<br><br>
 3.Copy the folder directory path<br><br>
-4.Open the terminal and type<br><br>
+4.Open the terminal and type the following<br><br>
 <br><br>
 $ sudo cp -r "the copied file" /usr/share/icons
 <br><br><br>
