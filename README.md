@@ -5,7 +5,6 @@ still in devlopment
 
 
 <h1>how to download?</h1>
-<br><br>
 <h2>Install script</h2><br>
 <h4>
   1.Press the code button and copy<br><br>
