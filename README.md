@@ -12,8 +12,10 @@ still in devlopment
   $ cd ~/Downloads<br><br>
   $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br><br>
   $ cd Too-vibrant-icons-beta<br><br>
-  $ chmod +x ./install.sh<br><br>
   $ ./install.sh<br><br>
+  <br>if any error here at ./install.sh part then do the below and try ./install again <br>
+  $ chmod +x ./install.sh<br><br>
+  Incase you get git not found error install git<br>
 </h4>
 <h2>Manual method</h2>
 <h4>1.Click the green code button and download the zip<br><br>
