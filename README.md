@@ -11,7 +11,7 @@ still in devlopment
   2.Open terminal and type the following<br><br><br>
   $ cd ~/Downloads<br><br>
   $ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git<br><br>
-  ```$ cd Too-vibrant-icons-beta<br><br>
+  ``` $ cd Too-vibrant-icons-beta ```<br><br>
   $ ./install.sh<br><br>
   <br>if any error here at ./install.sh part then do the below and try ./install again <br><br>
   $ chmod +x ./install.sh<br><br>
