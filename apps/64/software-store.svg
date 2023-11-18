@@ -35,10 +35,10 @@
      id="defs1"><linearGradient
        id="linearGradient1"
        inkscape:collect="always"><stop
-         style="stop-color:#1a75b5;stop-opacity:1;"
+         style="stop-color:#1f8fe0;stop-opacity:1;"
          offset="0"
          id="stop3" /><stop
-         style="stop-color:#0be0be;stop-opacity:1;"
+         style="stop-color:#950be0;stop-opacity:1;"
          offset="1"
          id="stop2" /></linearGradient><linearGradient
        id="swatch1"
@@ -51,8 +51,8 @@
        id="linearGradient3"
        x1="260.38043"
        y1="-34.127708"
-       x2="267.76663"
-       y2="412.8877"
+       x2="263.82822"
+       y2="460.14926"
        gradientUnits="userSpaceOnUse" /></defs><path
      id="path11"
      style="display:inline;fill:#171717;fill-opacity:1;stroke:#474747;stroke-opacity:0;stroke-width:1.68464"
