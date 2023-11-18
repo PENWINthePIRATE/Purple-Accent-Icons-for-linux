@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Too Vibrant Icons
-Comment=Icons minimalised and dippied in color
+Name=BlueAccentIC
+Comment=Icons minimalised and dippied in BLUE
 Inherits=Mkos-Big-Sur,breeze,gnome,hicolor
 
 Example=x-directory-normal
