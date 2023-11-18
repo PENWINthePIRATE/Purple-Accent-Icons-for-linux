@@ -11,7 +11,7 @@ still in devlopment
   2.Open a terminal and clone the repository<br><br>
 `$ git clone https://github.com/PENWINthePIRATE/Too-vibrant-icons-beta.git`<br><br>
   `$ cd Too-vibrant-icons-beta`<br><br>
-  `$ ./install.sh` \<br><br>
+  `$ ./install.sh` \ <br><br>
   <br>if any error happens during install, make sure the script is executable and try running ./install.sh again<br><br>
   `$ chmod +x ./install.sh`<br><br>
   **And make sure you have the following dependecies installed : **<br><br>
