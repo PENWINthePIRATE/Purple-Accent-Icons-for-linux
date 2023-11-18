@@ -27,7 +27,9 @@ $ sudo cp -r "the copied file" /usr/share/icons
 
 on doing this the files is directed to /usr/share/icons and you will be able to change the icons from the settings
 <br><br>
-<h4>The icons are still under devlopment, for any inquires please contact; penwinthepirate@gmail.com</h4>
+any ideas for the future of this icon pack? This icon pack lacks icons and is currently made on top of the base of deepin icon pack, over days more icons will be remade into Too-Vibrant-icons. we would love to hear your ideas and opinions on next icon to work on. Please email with your idea or wish on an icon to be remade. We will reachout as soon as possible
+<h4>The icons are still under devlopment, for any inquires please contact; penwinthepirate@gmail.com</h4><br>
+
 
 <h5>please show love and support on:</h5>
 <br>
