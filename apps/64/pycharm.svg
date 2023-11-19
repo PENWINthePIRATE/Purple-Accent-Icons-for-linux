@@ -121,10 +121,10 @@
          id="stop85" /></linearGradient><linearGradient
        id="linearGradient14"
        inkscape:collect="always"><stop
-         style="stop-color:#0067fe;stop-opacity:1;"
+         style="stop-color:#9200d9;stop-opacity:1;"
          offset="0"
          id="stop15" /><stop
-         style="stop-color:#41ffdd;stop-opacity:1;"
+         style="stop-color:#ff41fd;stop-opacity:1;"
          offset="1"
          id="stop16" /></linearGradient><linearGradient
        id="linearGradient8"
@@ -146,10 +146,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient14"
        id="linearGradient16"
-       x1="35.768818"
-       y1="-31.222696"
-       x2="378.31357"
-       y2="-393.78357"
+       x1="172.22958"
+       y1="-320.85364"
+       x2="453.50623"
+       y2="-496.82538"
        gradientUnits="userSpaceOnUse" /><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient83"

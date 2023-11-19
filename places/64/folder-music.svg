@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    viewBox="0 0 64 64"
    version="1.1"
    id="svg69"
-   sodipodi:docname="default-folder-music.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="folder-music.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata73">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,16 +37,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1028"
      id="namedview71"
      showgrid="false"
      inkscape:zoom="3.5327718"
-     inkscape:cx="74.673977"
-     inkscape:cy="31.275743"
+     inkscape:cx="74.728857"
+     inkscape:cy="31.137024"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg69" />
+     inkscape:current-layer="svg69"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs48">
     <linearGradient
@@ -65,7 +68,7 @@
        inkscape:collect="always"
        id="linearGradient968">
       <stop
-         style="stop-color:#00affe;stop-opacity:1;"
+         style="stop-color:#8c00fe;stop-opacity:1;"
          offset="0"
          id="stop964" />
       <stop
@@ -77,11 +80,11 @@
        inkscape:collect="always"
        id="linearGradient909">
       <stop
-         style="stop-color:#41cdfe;stop-opacity:1"
+         style="stop-color:#e741fe;stop-opacity:1;"
          offset="0"
          id="stop905" />
       <stop
-         style="stop-color:#0086f7;stop-opacity:1"
+         style="stop-color:#9200f7;stop-opacity:1;"
          offset="1"
          id="stop907" />
     </linearGradient>
@@ -207,7 +210,9 @@
          k3="1"
          operator="arithmetic"
          result="shadowInnerInner1"
-         id="feComposite38" />
+         id="feComposite38"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          in="shadowInnerInner1"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -398,7 +403,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1055"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -590,7 +597,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1111"
          values="0 0 0 0 0.376992985   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
@@ -769,7 +778,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1313"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -957,7 +968,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1572"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1136,7 +1149,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1625"
          values="0 0 0 0 0.376992985   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
@@ -1315,7 +1330,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1887"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1529,7 +1546,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix2088"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1574,10 +1593,10 @@
        id="folder-music-64px-k" />
     <filter
        filterUnits="objectBoundingBox"
-       y="-12.5%"
-       x="-12.5%"
-       height="125%"
-       width="125%"
+       y="-0.1"
+       x="-0.1"
+       height="1.2"
+       width="1.2"
        id="folder-music-64px-j">
       <feOffset
          id="feOffset2102"
@@ -1611,23 +1630,7 @@
     </linearGradient>
   </defs>
   <image
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA0CAYAAADWr1sfAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAALwSURB
-VGiB7dvdaxRXGMfxz76YaKNt40uUtnf1oiD25UpBQW+81X+3V6X0QtCripQWSqFQ0GiJUZqoMdld
-L57zZNZ0065ZMzHj/OBwZtiZ2fM9z3meM7C/7ZisDrrolePOLtftRaPShqXleS3aCdIRkMfwKRax
-gDkxATnQWQY4xCs8wwr+weaMz5xanR3HcziN87iAL7EkoHtlUAOzQQ8E5F+4h/t4iI0Znjm1+qVP
-2M9wGdfxNc75d4QzynvVUMA9wVf4GD8J6M0ZnjuVErgnInsJt0q/pALdjxw+iRMC8m8R9Wdmm8z/
-VRalBbGEb+KaiPS8N4vWu2xZEOfFpK7hUYEe7DdwD2dwBTdE3s57t1GdpCyQCb2BlyrgnliB07a8
-/j9XZF6wKEDPlS/fb9hUVyzri2LAX+BXLOM5tt7iWUORHut4KtLjhR0FNoEXRM4eL+d1qi8m/FsB
-fLUMNoGnrdyDcs9j/IHfSv9EbIOj/LIOjoi994j6ojuuvqjWCwJ6q7S3KWAjEeE1UfHvi+p/Fw+U
-bW98W8oCdVDqqPJxbg/350o4hbP4vBz3jW17/cn3Hrj2MvF5T6bonAjiC2PbXt35WpcyTc/gG3wn
-ot1tKjDV2+NZsQMtajgwsbyP4pPSNx6Y6q2umycfgraL4IcCvK0WuOlqgZuuFrjpaoGbrha46WqB
-m64WuOlqgZuuFrjpaoGbrha46WqBm64ETv9VbY64GvUGW3qvNsXvqLU54mpSsj0v/agrbAXrwhux
-Zp99UjVrKJgeC8ZhAq8KA8iymiyANWgkWJYF2yqGvfLhUPykuCSsSx85eM/HLBoJ584ybuMH/ImN
-ceCM7AnhqEnb4WFSFqiXAvYOvsfPiq0xTS0DYeW9U86fqsylxx0O+LQlrwnYe/hRMK0oDr9J9uFT
-KvvweZV9+H11/KS2VMX3d/wicnfFmDFtN4P4UWEC2WkQf5+VEV4XBWpV5d3cLsK7FaV0vGY7LMVr
-/K8FE03srwHg9L7VccUQJQAAAABJRU5ErkJggg==
-"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA0CAYAAADWr1sfAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAALwSURB VGiB7dvdaxRXGMfxz76YaKNt40uUtnf1oiD25UpBQW+81X+3V6X0QtCripQWSqFQ0GiJUZqoMdld L57zZNZ0065ZMzHj/OBwZtiZ2fM9z3meM7C/7ZisDrrolePOLtftRaPShqXleS3aCdIRkMfwKRax gDkxATnQWQY4xCs8wwr+weaMz5xanR3HcziN87iAL7EkoHtlUAOzQQ8E5F+4h/t4iI0Znjm1+qVP 2M9wGdfxNc75d4QzynvVUMA9wVf4GD8J6M0ZnjuVErgnInsJt0q/pALdjxw+iRMC8m8R9Wdmm8z/ VRalBbGEb+KaiPS8N4vWu2xZEOfFpK7hUYEe7DdwD2dwBTdE3s57t1GdpCyQCb2BlyrgnliB07a8 /j9XZF6wKEDPlS/fb9hUVyzri2LAX+BXLOM5tt7iWUORHut4KtLjhR0FNoEXRM4eL+d1qi8m/FsB fLUMNoGnrdyDcs9j/IHfSv9EbIOj/LIOjoi994j6ojuuvqjWCwJ6q7S3KWAjEeE1UfHvi+p/Fw+U bW98W8oCdVDqqPJxbg/350o4hbP4vBz3jW17/cn3Hrj2MvF5T6bonAjiC2PbXt35WpcyTc/gG3wn ot1tKjDV2+NZsQMtajgwsbyP4pPSNx6Y6q2umycfgraL4IcCvK0WuOlqgZuuFrjpaoGbrha46WqB m64WuOlqgZuuFrjpaoGbrha46WqBm64ETv9VbY64GvUGW3qvNsXvqLU54mpSsj0v/agrbAXrwhux Zp99UjVrKJgeC8ZhAq8KA8iymiyANWgkWJYF2yqGvfLhUPykuCSsSx85eM/HLBoJ584ybuMH/ImN ceCM7AnhqEnb4WFSFqiXAvYOvsfPiq0xTS0DYeW9U86fqsylxx0O+LQlrwnYe/hRMK0oDr9J9uFT KvvweZV9+H11/KS2VMX3d/wicnfFmDFtN4P4UWEC2WkQf5+VEV4XBWpV5d3cLsK7FaV0vGY7LMVr /K8FE03srwHg9L7VccUQJQAAAABJRU5ErkJggg== "
      width="60"
      height="52"
      id="image997"

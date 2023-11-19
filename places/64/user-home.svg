@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    viewBox="0 0 64 64"
    version="1.1"
    id="svg69"
-   sodipodi:docname="default-user-home.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="user-home.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata73">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,16 +37,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1028"
      id="namedview71"
      showgrid="false"
      inkscape:zoom="7.0655435"
-     inkscape:cx="62.0136"
-     inkscape:cy="0.5978656"
+     inkscape:cx="61.990985"
+     inkscape:cy="0.56612772"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg69" />
+     inkscape:current-layer="svg69"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs48">
     <linearGradient
@@ -65,7 +68,7 @@
        inkscape:collect="always"
        id="linearGradient968">
       <stop
-         style="stop-color:#00affe;stop-opacity:1;"
+         style="stop-color:#9100fe;stop-opacity:1;"
          offset="0"
          id="stop964" />
       <stop
@@ -77,11 +80,11 @@
        inkscape:collect="always"
        id="linearGradient909">
       <stop
-         style="stop-color:#41cdfe;stop-opacity:1"
+         style="stop-color:#e341fe;stop-opacity:1;"
          offset="0"
          id="stop905" />
       <stop
-         style="stop-color:#0086f7;stop-opacity:1"
+         style="stop-color:#9200f7;stop-opacity:1;"
          offset="1"
          id="stop907" />
     </linearGradient>
@@ -207,7 +210,9 @@
          k3="1"
          operator="arithmetic"
          result="shadowInnerInner1"
-         id="feComposite38" />
+         id="feComposite38"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          in="shadowInnerInner1"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -398,7 +403,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1055"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -590,7 +597,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1111"
          values="0 0 0 0 0.376992985   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
@@ -769,7 +778,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1313"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -957,7 +968,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1572"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1136,7 +1149,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1625"
          values="0 0 0 0 0.376992985   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
@@ -1315,7 +1330,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1887"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1529,7 +1546,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix2088"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1731,7 +1750,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix2283"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -1921,7 +1942,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1199"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -2180,7 +2203,9 @@
          k3="1"
          k2="-1"
          in2="SourceAlpha"
-         in="shadowOffsetInner1" />
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix1450"
          values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"
@@ -2281,22 +2306,7 @@
      id="rect982"
      inkscape:connector-curvature="0" />
   <image
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAdCAYAAABSZrcyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAK9SURB
-VEiJxZbpUttQDIU/4yxgsxdCKQH6/o/Vme7QadJQlizuDx3FirGzADPVjGfsa1nnSDpX1/AfLXnl
-dwlQ6L5o8G209IXAW0Ab6Oh+Y+CXgCf6JgOOgXdAF5jq2ojEJuAJ0AJ2gffANfBBzwDjTQmsC55g
-Zd4T8BXQE3CGlb8IBGZvBb6l4PtYppfAAfAIDAWaAzsVAgUrqrAK3IEPgAugL6AR8BX4AdxjVfEq
-JCIwwSrQSKAJ3BXdBY4E2ld2Q+A7cEeZ6SOlHjJ9OwkE1gZ34G1M0X1l3QF+K9up3vW0fq8rEYFd
-xZ6IXC2BKngEPsH6e66sfgE38uthaj/DRFioEnd6n2u9JaKug0ZwB86AUwGfaf1G4Cmm9kv57Ipo
-VwT+UrYjE4FOhcBcAxE8xXraw7bSKVaun1i525RqPxFoquw6IoAIjASUiaATeMJaUURwHyCHIfhE
-wAORutC7YwEl4UoDgQTr/0gxulgbEhF7UFK0KmVPxWoI/JFzLuBzbMu11Z5oviWPFCMFPivOBJsR
-hdbn38bM3cZi/SSwK4E7cNNJ6OTblC15wFo20DXEtuUsgiNm01CWQ+CjgPcDsPv5IHEVxxa0KTUw
-wAQ7UOx5z2PZC71w28PKmMsvEaknrCVDEWiLnCt7S/65vt8DvlERWxU8kvDzOvbXZ/U98AX4hGki
-w1pzJX8PXo3xbMzWgbtFNUdiY8oRO1TWh1ovVny/YFXVrmMFVn4fnSsPkLcEd/OJ+NL/wKVlbzI/
-7XIs41zPGyeyDHxG+W8Gpdpb2J7vY+Lb0XNL7+N2XPpX0wQ+xYbBSD5xHoyxIdKTX6rn+fAIMUZa
-f3ai1YG7mB6BWwXOWSxpEfzcvPex/zPshLsNxBZEWScWP2S2sZK2avzqlF3nM8FaszDZloH7+qvV
-TFmh2p/JdQK/FrzR/gHBTsoNK6QrawAAAABJRU5ErkJggg==
-"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAdCAYAAABSZrcyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAK9SURB VEiJxZbpUttQDIU/4yxgsxdCKQH6/o/Vme7QadJQlizuDx3FirGzADPVjGfsa1nnSDpX1/AfLXnl dwlQ6L5o8G209IXAW0Ab6Oh+Y+CXgCf6JgOOgXdAF5jq2ojEJuAJ0AJ2gffANfBBzwDjTQmsC55g Zd4T8BXQE3CGlb8IBGZvBb6l4PtYppfAAfAIDAWaAzsVAgUrqrAK3IEPgAugL6AR8BX4AdxjVfEq JCIwwSrQSKAJ3BXdBY4E2ld2Q+A7cEeZ6SOlHjJ9OwkE1gZ34G1M0X1l3QF+K9up3vW0fq8rEYFd xZ6IXC2BKngEPsH6e66sfgE38uthaj/DRFioEnd6n2u9JaKug0ZwB86AUwGfaf1G4Cmm9kv57Ipo VwT+UrYjE4FOhcBcAxE8xXraw7bSKVaun1i525RqPxFoquw6IoAIjASUiaATeMJaUURwHyCHIfhE wAORutC7YwEl4UoDgQTr/0gxulgbEhF7UFK0KmVPxWoI/JFzLuBzbMu11Z5oviWPFCMFPivOBJsR hdbn38bM3cZi/SSwK4E7cNNJ6OTblC15wFo20DXEtuUsgiNm01CWQ+CjgPcDsPv5IHEVxxa0KTUw wAQ7UOx5z2PZC71w28PKmMsvEaknrCVDEWiLnCt7S/65vt8DvlERWxU8kvDzOvbXZ/U98AX4hGki w1pzJX8PXo3xbMzWgbtFNUdiY8oRO1TWh1ovVny/YFXVrmMFVn4fnSsPkLcEd/OJ+NL/wKVlbzI/ 7XIs41zPGyeyDHxG+W8Gpdpb2J7vY+Lb0XNL7+N2XPpX0wQ+xYbBSD5xHoyxIdKTX6rn+fAIMUZa f3ai1YG7mB6BWwXOWSxpEfzcvPex/zPshLsNxBZEWScWP2S2sZK2avzqlF3nM8FaszDZloH7+qvV TFmh2p/JdQK/FrzR/gHBTsoNK6QrawAAAABJRU5ErkJggg== "
      width="31"
      height="29"
      id="image1562"

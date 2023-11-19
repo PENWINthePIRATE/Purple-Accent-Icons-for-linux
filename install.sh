@@ -13,4 +13,4 @@ cp -r /usr/share/icons/x/ ~/.local/share/icons/
 echo ''
 echo '	✅ The icon pack was installed successfully.'
 echo ''
-echo 'Thank you for installing BlueAccent Icons'
+echo 'Thank you for installing PurpleAccent Icons'
