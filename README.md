@@ -1,5 +1,6 @@
-<center><h1>Blue-Accent-Icons</h1></center>
-                        still in devlopment
+<b><h1>Blue-Accent-Icons</h1></b>
+ still in devlopment
+ <BR><BR>
 
 
 ![Alt Text](imgs/img1.png)
