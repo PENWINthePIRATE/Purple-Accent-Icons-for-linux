@@ -10,8 +10,8 @@
 ### Install script :
   1.Press the code button and copy<br><br>
   2.Open a terminal and clone the repository<br><br>
-`$ git clone https://github.com/PENWINthePIRATE/Blue-Accent-Icons.git`<br><br>
-  `$ cd Blue-Accent-Icons`<br><br>
+`$ git clone https://github.com/PENWINthePIRATE/Purple-Accent-Icons.git`<br><br>
+  `$ cd Purple-Accent-Icons`<br><br>
   `$ ./install.sh`  <br><br>
   <br>if any error happens during install, make sure the script is executable and try running ./install.sh again<br><br>
   `$ chmod +x ./install.sh`<br><br>
