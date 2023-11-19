@@ -1,4 +1,4 @@
-<h1>Blue-Accent-Icons</h1>
+<center><h1>Blue-Accent-Icons</h1></center>
                         still in devlopment
 
 
