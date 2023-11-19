@@ -8,8 +8,16 @@
 # how to download?
 
 ### Install script :
-<br>comingsoon<br>
-## Manual method
+  1.Press the code button and copy<br><br>
+  2.Open a terminal and clone the repository<br><br>
+`$ git clone https://github.com/PENWINthePIRATE/Blue-Accent-Icons.git`<br><br>
+  `$ cd Blue-Accent-Icons`<br><br>
+  `$ ./install.sh`  <br><br>
+  <br>if any error happens during install, make sure the script is executable and try running ./install.sh again<br><br>
+  `$ chmod +x ./install.sh`<br><br>
+  **And make sure you have the following dependecies installed : **<br><br>
+  - git<br><br>
+  - bash<br><br>## Manual method
 #### 
 1. Click the green code button and download the zip<br><br>
 2. Go to the zip directory and extract it<br><br>
