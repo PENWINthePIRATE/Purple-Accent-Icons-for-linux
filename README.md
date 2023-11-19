@@ -1,4 +1,4 @@
- Too-vibrant-icons-beta
+Blue-Accent-Icons
 still in devlopment
 
 
