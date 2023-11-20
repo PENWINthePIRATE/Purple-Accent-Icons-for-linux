@@ -17,7 +17,8 @@
   `$ chmod +x ./install.sh`<br><br>
   **And make sure you have the following dependecies installed : **<br><br>
   - git<br><br>
-  - bash<br><br>### Manual method
+  - bash<br><br>
+  ## Manual method
 #### 
 1. Click the green code button and download the zip<br><br>
 2. Go to the zip directory and extract it<br><br>
