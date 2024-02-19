@@ -1,5 +1,4 @@
 <b><h1>Purple-Accent-Icons</h1></b>
- still in devlopment
  <BR><BR>
 
 
